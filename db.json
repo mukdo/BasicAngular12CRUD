@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Sabbir Islam",
+      "lastName": "Mugda",
+      "email": "bmukdo@gmail.com",
+      "mobile": "01628",
+      "salary": 1234
+    },
+    {
+      "id": 4,
+      "firstName": "Sabbir Islam",
+      "lastName": "Mugda",
+      "email": "bmukdo@gmail.com",
+      "mobile": "01628",
+      "salary": 10000
+    },
+    {
+      "id": 5,
+      "firstName": "Mr.",
+      "lastName": "Abc",
+      "email": "abc@def.com",
+      "mobile": "01628",
+      "salary": 800
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
